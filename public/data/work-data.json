@@ -1,0 +1,25 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/project-linux-icon.jpg",
+      "title": "Linux Icon Theme (Pebble)",
+      "client": "Open Source Project",
+      "slug": "https://github.com/abhijeetshewale05/Pebble-Icon-Theme",
+      "bullets": [
+        "Designed and developed 'Pebble,' a premium, brand-free squircle icon pack for Linux desktop environments, resulting in a cohesive GTK UI experience.",
+        "Managed open-source project lifecycle, handling community contributions, tracking bug reports via GitHub Issues, and defining a product roadmap for expanding multi-platform compatibility (KDE Plasma)."
+      ]
+    },
+    {
+      "image": "/images/work/project-fsae.jpg",
+      "title": "Formula SAE Team Manager",
+      "client": "Vellore Institute of Technology",
+      "slug": "https://gozfr.in",
+      "bullets": [
+        "Orchestrated a 50-person engineering division for the design & manufacturing of a Formula Student race car.",
+        "Managed workloads, oversaw cross-functional logistics, and presented strategic pitches to secure a 50% increase in corporate funding (Awarded Best Business Presentation, FSAE Australia).",
+        "Curated branding assets (logos, brochures) using Adobe Creative Cloud (Photoshop, Illustrator) and produced commercial video content for the team’s social media profiles."
+      ]
+    }
+  ]
+}

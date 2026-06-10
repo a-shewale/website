@@ -1,0 +1,83 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "abhijeet.shewale.05@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:abhijeet.shewale.05@gmail.com"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://linkedin.com/in/abhijeetshewale05"
+      },
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/abhijeetshewale05"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Vellore Institute of Technology | Chennai, India",
+        "description": "Bachelor of Technology (B.Tech) in Civil Engineering (Jun 2017 – Jun 2021)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "SQL",
+        "icon": "/images/home/education-skill/sql-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Power BI",
+        "icon": "/images/home/education-skill/powerbi-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Snowflake",
+        "icon": "/images/home/education-skill/snowflake-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "AWS",
+        "icon": "/images/home/education-skill/aws-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Tableau",
+        "icon": "/images/home/education-skill/tableau-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://linkedin.com/in/abhijeetshewale05"
+      },
+      {
+        "title": "GitHub",
+        "href": "https://github.com/abhijeetshewale05"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "abhijeet.shewale.05@gmail.com",
+        "link": "mailto:abhijeet.shewale.05@gmail.com"
+      }
+    ]
+  }
+}
